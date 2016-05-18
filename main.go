@@ -3,18 +3,19 @@ package main
 import (
 	"encoding/json"
 	"encoding/xml"
-	"net/http"
 	"io/ioutil"
+	"net/http"
 )
 
 const currencies_data_source = "http://www.currency-iso.org/dam/downloads/lists/list_one.xml"
 
 type Currency struct {
-	Code         string `xml:"Ccy",json:"iso_code"`
-	Num          string `xml:"CcyNbr",json:"iso_num"`
-	MinorUnit    string `xml:"CcyMnrUnts",json:"minor_unit,omitempty"`
-	CountryName  string `xml:"CtryNm",json:"country_name,omitempty"`
-	CurrencyName string `xml:"CcyNm",json:"currency_name"`
+	Code         string   `xml:"Ccy" json:"iso_code"`
+	Num          string   `xml:"CcyNbr" json:"iso_num"`
+	MinorUnit    string   `xml:"CcyMnrUnts" json:"minor_unit,omitempty"`
+	CountryName  string   `xml:"CtryNm" json:"country_name,omitempty"`
+	Countries    []string `json:"countries,omitempty"`
+	CurrencyName string   `xml:"CcyNm" json:"currency_name"`
 }
 
 type ISO_4217 struct {
@@ -42,9 +43,17 @@ func main() {
 	currenciesByCode := make(map[string]Currency)
 	for _, c := range list_one.Currencies {
 		if c.Code != "" {
-			curr := *&c
-			curr.CountryName = ""
-			currenciesByCode[c.Code] = curr
+			if entity, ok := currenciesByCode[c.Code]; !ok {
+				curr := *&c
+				curr.CountryName = ""
+				curr.Countries = append(curr.Countries, c.CountryName)
+				currenciesByCode[c.Code] = curr
+			} else {
+				if c.CountryName != "" {
+					entity.Countries = append(entity.Countries, c.CountryName)
+					currenciesByCode[c.Code] = entity
+				}
+			}
 		}
 	}
 	err = obj2jsonfile("currencies.json", currenciesByCode)
