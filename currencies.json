@@ -1,0 +1,1248 @@
+{
+  "AED": {
+    "Code": "AED",
+    "Num": "784",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "UAE Dirham"
+  },
+  "AFN": {
+    "Code": "AFN",
+    "Num": "971",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Afghani"
+  },
+  "ALL": {
+    "Code": "ALL",
+    "Num": "008",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Lek"
+  },
+  "AMD": {
+    "Code": "AMD",
+    "Num": "051",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Armenian Dram"
+  },
+  "ANG": {
+    "Code": "ANG",
+    "Num": "532",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Netherlands Antillean Guilder"
+  },
+  "AOA": {
+    "Code": "AOA",
+    "Num": "973",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Kwanza"
+  },
+  "ARS": {
+    "Code": "ARS",
+    "Num": "032",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Argentine Peso"
+  },
+  "AUD": {
+    "Code": "AUD",
+    "Num": "036",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Australian Dollar"
+  },
+  "AWG": {
+    "Code": "AWG",
+    "Num": "533",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Aruban Florin"
+  },
+  "AZN": {
+    "Code": "AZN",
+    "Num": "944",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Azerbaijanian Manat"
+  },
+  "BAM": {
+    "Code": "BAM",
+    "Num": "977",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Convertible Mark"
+  },
+  "BBD": {
+    "Code": "BBD",
+    "Num": "052",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Barbados Dollar"
+  },
+  "BDT": {
+    "Code": "BDT",
+    "Num": "050",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Taka"
+  },
+  "BGN": {
+    "Code": "BGN",
+    "Num": "975",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Bulgarian Lev"
+  },
+  "BHD": {
+    "Code": "BHD",
+    "Num": "048",
+    "MinorUnit": "3",
+    "CountryName": "",
+    "CurrencyName": "Bahraini Dinar"
+  },
+  "BIF": {
+    "Code": "BIF",
+    "Num": "108",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Burundi Franc"
+  },
+  "BMD": {
+    "Code": "BMD",
+    "Num": "060",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Bermudian Dollar"
+  },
+  "BND": {
+    "Code": "BND",
+    "Num": "096",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Brunei Dollar"
+  },
+  "BOB": {
+    "Code": "BOB",
+    "Num": "068",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Boliviano"
+  },
+  "BOV": {
+    "Code": "BOV",
+    "Num": "984",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Mvdol"
+  },
+  "BRL": {
+    "Code": "BRL",
+    "Num": "986",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Brazilian Real"
+  },
+  "BSD": {
+    "Code": "BSD",
+    "Num": "044",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Bahamian Dollar"
+  },
+  "BTN": {
+    "Code": "BTN",
+    "Num": "064",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Ngultrum"
+  },
+  "BWP": {
+    "Code": "BWP",
+    "Num": "072",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Pula"
+  },
+  "BYR": {
+    "Code": "BYR",
+    "Num": "974",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Belarusian Ruble"
+  },
+  "BZD": {
+    "Code": "BZD",
+    "Num": "084",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Belize Dollar"
+  },
+  "CAD": {
+    "Code": "CAD",
+    "Num": "124",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Canadian Dollar"
+  },
+  "CDF": {
+    "Code": "CDF",
+    "Num": "976",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Congolese Franc"
+  },
+  "CHE": {
+    "Code": "CHE",
+    "Num": "947",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "WIR Euro"
+  },
+  "CHF": {
+    "Code": "CHF",
+    "Num": "756",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Swiss Franc"
+  },
+  "CHW": {
+    "Code": "CHW",
+    "Num": "948",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "WIR Franc"
+  },
+  "CLF": {
+    "Code": "CLF",
+    "Num": "990",
+    "MinorUnit": "4",
+    "CountryName": "",
+    "CurrencyName": "Unidad de Fomento"
+  },
+  "CLP": {
+    "Code": "CLP",
+    "Num": "152",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Chilean Peso"
+  },
+  "CNY": {
+    "Code": "CNY",
+    "Num": "156",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Yuan Renminbi"
+  },
+  "COP": {
+    "Code": "COP",
+    "Num": "170",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Colombian Peso"
+  },
+  "COU": {
+    "Code": "COU",
+    "Num": "970",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Unidad de Valor Real"
+  },
+  "CRC": {
+    "Code": "CRC",
+    "Num": "188",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Costa Rican Colon"
+  },
+  "CUC": {
+    "Code": "CUC",
+    "Num": "931",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Peso Convertible"
+  },
+  "CUP": {
+    "Code": "CUP",
+    "Num": "192",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Cuban Peso"
+  },
+  "CVE": {
+    "Code": "CVE",
+    "Num": "132",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Cabo Verde Escudo"
+  },
+  "CZK": {
+    "Code": "CZK",
+    "Num": "203",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Czech Koruna"
+  },
+  "DJF": {
+    "Code": "DJF",
+    "Num": "262",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Djibouti Franc"
+  },
+  "DKK": {
+    "Code": "DKK",
+    "Num": "208",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Danish Krone"
+  },
+  "DOP": {
+    "Code": "DOP",
+    "Num": "214",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Dominican Peso"
+  },
+  "DZD": {
+    "Code": "DZD",
+    "Num": "012",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Algerian Dinar"
+  },
+  "EGP": {
+    "Code": "EGP",
+    "Num": "818",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Egyptian Pound"
+  },
+  "ERN": {
+    "Code": "ERN",
+    "Num": "232",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Nakfa"
+  },
+  "ETB": {
+    "Code": "ETB",
+    "Num": "230",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Ethiopian Birr"
+  },
+  "EUR": {
+    "Code": "EUR",
+    "Num": "978",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Euro"
+  },
+  "FJD": {
+    "Code": "FJD",
+    "Num": "242",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Fiji Dollar"
+  },
+  "FKP": {
+    "Code": "FKP",
+    "Num": "238",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Falkland Islands Pound"
+  },
+  "GBP": {
+    "Code": "GBP",
+    "Num": "826",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Pound Sterling"
+  },
+  "GEL": {
+    "Code": "GEL",
+    "Num": "981",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Lari"
+  },
+  "GHS": {
+    "Code": "GHS",
+    "Num": "936",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Ghana Cedi"
+  },
+  "GIP": {
+    "Code": "GIP",
+    "Num": "292",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Gibraltar Pound"
+  },
+  "GMD": {
+    "Code": "GMD",
+    "Num": "270",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Dalasi"
+  },
+  "GNF": {
+    "Code": "GNF",
+    "Num": "324",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Guinea Franc"
+  },
+  "GTQ": {
+    "Code": "GTQ",
+    "Num": "320",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Quetzal"
+  },
+  "GYD": {
+    "Code": "GYD",
+    "Num": "328",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Guyana Dollar"
+  },
+  "HKD": {
+    "Code": "HKD",
+    "Num": "344",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Hong Kong Dollar"
+  },
+  "HNL": {
+    "Code": "HNL",
+    "Num": "340",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Lempira"
+  },
+  "HRK": {
+    "Code": "HRK",
+    "Num": "191",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Kuna"
+  },
+  "HTG": {
+    "Code": "HTG",
+    "Num": "332",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Gourde"
+  },
+  "HUF": {
+    "Code": "HUF",
+    "Num": "348",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Forint"
+  },
+  "IDR": {
+    "Code": "IDR",
+    "Num": "360",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Rupiah"
+  },
+  "ILS": {
+    "Code": "ILS",
+    "Num": "376",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "New Israeli Sheqel"
+  },
+  "INR": {
+    "Code": "INR",
+    "Num": "356",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Indian Rupee"
+  },
+  "IQD": {
+    "Code": "IQD",
+    "Num": "368",
+    "MinorUnit": "3",
+    "CountryName": "",
+    "CurrencyName": "Iraqi Dinar"
+  },
+  "IRR": {
+    "Code": "IRR",
+    "Num": "364",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Iranian Rial"
+  },
+  "ISK": {
+    "Code": "ISK",
+    "Num": "352",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Iceland Krona"
+  },
+  "JMD": {
+    "Code": "JMD",
+    "Num": "388",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Jamaican Dollar"
+  },
+  "JOD": {
+    "Code": "JOD",
+    "Num": "400",
+    "MinorUnit": "3",
+    "CountryName": "",
+    "CurrencyName": "Jordanian Dinar"
+  },
+  "JPY": {
+    "Code": "JPY",
+    "Num": "392",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Yen"
+  },
+  "KES": {
+    "Code": "KES",
+    "Num": "404",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Kenyan Shilling"
+  },
+  "KGS": {
+    "Code": "KGS",
+    "Num": "417",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Som"
+  },
+  "KHR": {
+    "Code": "KHR",
+    "Num": "116",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Riel"
+  },
+  "KMF": {
+    "Code": "KMF",
+    "Num": "174",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Comoro Franc"
+  },
+  "KPW": {
+    "Code": "KPW",
+    "Num": "408",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "North Korean Won"
+  },
+  "KRW": {
+    "Code": "KRW",
+    "Num": "410",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Won"
+  },
+  "KWD": {
+    "Code": "KWD",
+    "Num": "414",
+    "MinorUnit": "3",
+    "CountryName": "",
+    "CurrencyName": "Kuwaiti Dinar"
+  },
+  "KYD": {
+    "Code": "KYD",
+    "Num": "136",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Cayman Islands Dollar"
+  },
+  "KZT": {
+    "Code": "KZT",
+    "Num": "398",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Tenge"
+  },
+  "LAK": {
+    "Code": "LAK",
+    "Num": "418",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Kip"
+  },
+  "LBP": {
+    "Code": "LBP",
+    "Num": "422",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Lebanese Pound"
+  },
+  "LKR": {
+    "Code": "LKR",
+    "Num": "144",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Sri Lanka Rupee"
+  },
+  "LRD": {
+    "Code": "LRD",
+    "Num": "430",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Liberian Dollar"
+  },
+  "LSL": {
+    "Code": "LSL",
+    "Num": "426",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Loti"
+  },
+  "LYD": {
+    "Code": "LYD",
+    "Num": "434",
+    "MinorUnit": "3",
+    "CountryName": "",
+    "CurrencyName": "Libyan Dinar"
+  },
+  "MAD": {
+    "Code": "MAD",
+    "Num": "504",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Moroccan Dirham"
+  },
+  "MDL": {
+    "Code": "MDL",
+    "Num": "498",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Moldovan Leu"
+  },
+  "MGA": {
+    "Code": "MGA",
+    "Num": "969",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Malagasy Ariary"
+  },
+  "MKD": {
+    "Code": "MKD",
+    "Num": "807",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Denar"
+  },
+  "MMK": {
+    "Code": "MMK",
+    "Num": "104",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Kyat"
+  },
+  "MNT": {
+    "Code": "MNT",
+    "Num": "496",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Tugrik"
+  },
+  "MOP": {
+    "Code": "MOP",
+    "Num": "446",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Pataca"
+  },
+  "MRO": {
+    "Code": "MRO",
+    "Num": "478",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Ouguiya"
+  },
+  "MUR": {
+    "Code": "MUR",
+    "Num": "480",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Mauritius Rupee"
+  },
+  "MVR": {
+    "Code": "MVR",
+    "Num": "462",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Rufiyaa"
+  },
+  "MWK": {
+    "Code": "MWK",
+    "Num": "454",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Malawi Kwacha"
+  },
+  "MXN": {
+    "Code": "MXN",
+    "Num": "484",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Mexican Peso"
+  },
+  "MXV": {
+    "Code": "MXV",
+    "Num": "979",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Mexican Unidad de Inversion (UDI)"
+  },
+  "MYR": {
+    "Code": "MYR",
+    "Num": "458",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Malaysian Ringgit"
+  },
+  "MZN": {
+    "Code": "MZN",
+    "Num": "943",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Mozambique Metical"
+  },
+  "NAD": {
+    "Code": "NAD",
+    "Num": "516",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Namibia Dollar"
+  },
+  "NGN": {
+    "Code": "NGN",
+    "Num": "566",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Naira"
+  },
+  "NIO": {
+    "Code": "NIO",
+    "Num": "558",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Cordoba Oro"
+  },
+  "NOK": {
+    "Code": "NOK",
+    "Num": "578",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Norwegian Krone"
+  },
+  "NPR": {
+    "Code": "NPR",
+    "Num": "524",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Nepalese Rupee"
+  },
+  "NZD": {
+    "Code": "NZD",
+    "Num": "554",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "New Zealand Dollar"
+  },
+  "OMR": {
+    "Code": "OMR",
+    "Num": "512",
+    "MinorUnit": "3",
+    "CountryName": "",
+    "CurrencyName": "Rial Omani"
+  },
+  "PAB": {
+    "Code": "PAB",
+    "Num": "590",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Balboa"
+  },
+  "PEN": {
+    "Code": "PEN",
+    "Num": "604",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Sol"
+  },
+  "PGK": {
+    "Code": "PGK",
+    "Num": "598",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Kina"
+  },
+  "PHP": {
+    "Code": "PHP",
+    "Num": "608",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Philippine Peso"
+  },
+  "PKR": {
+    "Code": "PKR",
+    "Num": "586",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Pakistan Rupee"
+  },
+  "PLN": {
+    "Code": "PLN",
+    "Num": "985",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Zloty"
+  },
+  "PYG": {
+    "Code": "PYG",
+    "Num": "600",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Guarani"
+  },
+  "QAR": {
+    "Code": "QAR",
+    "Num": "634",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Qatari Rial"
+  },
+  "RON": {
+    "Code": "RON",
+    "Num": "946",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Romanian Leu"
+  },
+  "RSD": {
+    "Code": "RSD",
+    "Num": "941",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Serbian Dinar"
+  },
+  "RUB": {
+    "Code": "RUB",
+    "Num": "643",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Russian Ruble"
+  },
+  "RWF": {
+    "Code": "RWF",
+    "Num": "646",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Rwanda Franc"
+  },
+  "SAR": {
+    "Code": "SAR",
+    "Num": "682",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Saudi Riyal"
+  },
+  "SBD": {
+    "Code": "SBD",
+    "Num": "090",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Solomon Islands Dollar"
+  },
+  "SCR": {
+    "Code": "SCR",
+    "Num": "690",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Seychelles Rupee"
+  },
+  "SDG": {
+    "Code": "SDG",
+    "Num": "938",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Sudanese Pound"
+  },
+  "SEK": {
+    "Code": "SEK",
+    "Num": "752",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Swedish Krona"
+  },
+  "SGD": {
+    "Code": "SGD",
+    "Num": "702",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Singapore Dollar"
+  },
+  "SHP": {
+    "Code": "SHP",
+    "Num": "654",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Saint Helena Pound"
+  },
+  "SLL": {
+    "Code": "SLL",
+    "Num": "694",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Leone"
+  },
+  "SOS": {
+    "Code": "SOS",
+    "Num": "706",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Somali Shilling"
+  },
+  "SRD": {
+    "Code": "SRD",
+    "Num": "968",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Surinam Dollar"
+  },
+  "SSP": {
+    "Code": "SSP",
+    "Num": "728",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "South Sudanese Pound"
+  },
+  "STD": {
+    "Code": "STD",
+    "Num": "678",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Dobra"
+  },
+  "SVC": {
+    "Code": "SVC",
+    "Num": "222",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "El Salvador Colon"
+  },
+  "SYP": {
+    "Code": "SYP",
+    "Num": "760",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Syrian Pound"
+  },
+  "SZL": {
+    "Code": "SZL",
+    "Num": "748",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Lilangeni"
+  },
+  "THB": {
+    "Code": "THB",
+    "Num": "764",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Baht"
+  },
+  "TJS": {
+    "Code": "TJS",
+    "Num": "972",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Somoni"
+  },
+  "TMT": {
+    "Code": "TMT",
+    "Num": "934",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Turkmenistan New Manat"
+  },
+  "TND": {
+    "Code": "TND",
+    "Num": "788",
+    "MinorUnit": "3",
+    "CountryName": "",
+    "CurrencyName": "Tunisian Dinar"
+  },
+  "TOP": {
+    "Code": "TOP",
+    "Num": "776",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Pa’anga"
+  },
+  "TRY": {
+    "Code": "TRY",
+    "Num": "949",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Turkish Lira"
+  },
+  "TTD": {
+    "Code": "TTD",
+    "Num": "780",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Trinidad and Tobago Dollar"
+  },
+  "TWD": {
+    "Code": "TWD",
+    "Num": "901",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "New Taiwan Dollar"
+  },
+  "TZS": {
+    "Code": "TZS",
+    "Num": "834",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Tanzanian Shilling"
+  },
+  "UAH": {
+    "Code": "UAH",
+    "Num": "980",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Hryvnia"
+  },
+  "UGX": {
+    "Code": "UGX",
+    "Num": "800",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Uganda Shilling"
+  },
+  "USD": {
+    "Code": "USD",
+    "Num": "840",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "US Dollar"
+  },
+  "USN": {
+    "Code": "USN",
+    "Num": "997",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "US Dollar (Next day)"
+  },
+  "UYI": {
+    "Code": "UYI",
+    "Num": "940",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Uruguay Peso en Unidades Indexadas (URUIURUI)"
+  },
+  "UYU": {
+    "Code": "UYU",
+    "Num": "858",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Peso Uruguayo"
+  },
+  "UZS": {
+    "Code": "UZS",
+    "Num": "860",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Uzbekistan Sum"
+  },
+  "VEF": {
+    "Code": "VEF",
+    "Num": "937",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Bolívar"
+  },
+  "VND": {
+    "Code": "VND",
+    "Num": "704",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Dong"
+  },
+  "VUV": {
+    "Code": "VUV",
+    "Num": "548",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "Vatu"
+  },
+  "WST": {
+    "Code": "WST",
+    "Num": "882",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Tala"
+  },
+  "XAF": {
+    "Code": "XAF",
+    "Num": "950",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "CFA Franc BEAC"
+  },
+  "XAG": {
+    "Code": "XAG",
+    "Num": "961",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Silver"
+  },
+  "XAU": {
+    "Code": "XAU",
+    "Num": "959",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Gold"
+  },
+  "XBA": {
+    "Code": "XBA",
+    "Num": "955",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Bond Markets Unit European Composite Unit (EURCO)"
+  },
+  "XBB": {
+    "Code": "XBB",
+    "Num": "956",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
+  },
+  "XBC": {
+    "Code": "XBC",
+    "Num": "957",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
+  },
+  "XBD": {
+    "Code": "XBD",
+    "Num": "958",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
+  },
+  "XCD": {
+    "Code": "XCD",
+    "Num": "951",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "East Caribbean Dollar"
+  },
+  "XDR": {
+    "Code": "XDR",
+    "Num": "960",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "SDR (Special Drawing Right)"
+  },
+  "XOF": {
+    "Code": "XOF",
+    "Num": "952",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "CFA Franc BCEAO"
+  },
+  "XPD": {
+    "Code": "XPD",
+    "Num": "964",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Palladium"
+  },
+  "XPF": {
+    "Code": "XPF",
+    "Num": "953",
+    "MinorUnit": "0",
+    "CountryName": "",
+    "CurrencyName": "CFP Franc"
+  },
+  "XPT": {
+    "Code": "XPT",
+    "Num": "962",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Platinum"
+  },
+  "XSU": {
+    "Code": "XSU",
+    "Num": "994",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Sucre"
+  },
+  "XTS": {
+    "Code": "XTS",
+    "Num": "963",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "Codes specifically reserved for testing purposes"
+  },
+  "XUA": {
+    "Code": "XUA",
+    "Num": "965",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "ADB Unit of Account"
+  },
+  "XXX": {
+    "Code": "XXX",
+    "Num": "999",
+    "MinorUnit": "N.A.",
+    "CountryName": "",
+    "CurrencyName": "The codes assigned for transactions where no currency is involved"
+  },
+  "YER": {
+    "Code": "YER",
+    "Num": "886",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Yemeni Rial"
+  },
+  "ZAR": {
+    "Code": "ZAR",
+    "Num": "710",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Rand"
+  },
+  "ZMW": {
+    "Code": "ZMW",
+    "Num": "967",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Zambian Kwacha"
+  },
+  "ZWL": {
+    "Code": "ZWL",
+    "Num": "932",
+    "MinorUnit": "2",
+    "CountryName": "",
+    "CurrencyName": "Zimbabwe Dollar"
+  }
+}
