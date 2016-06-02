@@ -27,12 +27,6 @@ build:
     - setup-go-workspace
     - glide-install
 
-    # Gets the dependencies
-    - script:
-        name: glide install
-        code: |
-          glide install
-
     # Test the project
     - script:
         name: tests
