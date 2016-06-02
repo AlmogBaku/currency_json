@@ -3,7 +3,7 @@
 # If you want Google's container you would reference google/golang
 # Read more about containers on our dev center
 # http://devcenter.wercker.com/docs/containers/index.html
-box: scratch
+box: golang
 # This is the build pipeline. Pipelines are the core of wercker
 # Read more about pipelines on our dev center
 # http://devcenter.wercker.com/docs/pipelines/index.html
@@ -33,14 +33,18 @@ build:
         code: |
           glide install
 
+    # Test the project
+    - script:
+        name: tests
+        code: |
+          go test -v -race `glide novendor`
+
     # Build the project
     - script:
         name: go build
         code: |
           CGO_ENABLED=0 GOOS=linux go build -ldflags "-s -w -X main.Version=$(git symbolic-ref -q --short HEAD || git describe --tags --exact-match) -X main.BuildDate=$(date -u '+%Y-%m-%d_%I:%M:%S%p')" -a -installsuffix nocgo -o main .
 
-    # Test the project
     - script:
-        name: tests
-        code: |
-          go test -v -race `glide novendor`
+        name: copy binary
+        code: cp main "$WERCKER_OUTPUT_DIR"
